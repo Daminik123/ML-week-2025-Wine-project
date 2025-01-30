@@ -129,4 +129,4 @@ if st.button("Submit", on_click=scroll_to_top):
 
         predicted_points = predict_points(input_data)
 
-        wine_points_placeholder.markdown(f"# Wine points is: **{predicted_points}**")
+        wine_points_placeholder.markdown(f"# Wine points is: **{round(predicted_points, 1)}**")
