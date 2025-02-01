@@ -58,6 +58,7 @@ Pygments==2.13.0
 pyparsing==3.0.9
 python-dateutil==2.8.2
 pytz==2024.2
+pyzmq==24.0.1
 referencing==0.36.2
 regex==2024.11.6
 requests==2.32.3
